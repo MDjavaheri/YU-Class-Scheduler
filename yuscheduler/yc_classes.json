@@ -1,0 +1,2701 @@
+{
+   "Art": {
+      "33989": {
+         "credits": 2,
+         "crse": "2301",
+         "day1": "M",
+         "prof": "Carla Aurich",
+         "time1finish": "10:30pm",
+         "time1start": "08:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Principles of Drawing"
+      },
+      "34028": {
+         "credits": 2,
+         "crse": "2901",
+         "day1": "M",
+         "prof": "Carla Aurich",
+         "time1finish": "08:35pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Printmaking"
+      },
+      "35570": {
+         "credits": 3,
+         "crse": "1635H",
+         "day1": "T",
+         "prof": "Paul Glassman",
+         "time1finish": "09:30pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Evolution of the Skyscraper"
+      },
+      "35643": {
+         "credits": 3,
+         "crse": "1831",
+         "day1": "W",
+         "prof": "Paul Glassman",
+         "time1finish": "09:30pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Architectural Design Process"
+      },
+      "35699": {
+         "credits": 3,
+         "crse": "1023H",
+         "day1": "F",
+         "prof": "Jacob Wisse, Meir Yakov Soloveichik ",
+         "time1finish": "12:30pm",
+         "time1start": "10:00am",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Rembrandt and the Jews"
+      }
+   },
+   "Bible": {
+      "33969": {
+         "credits": 2,
+         "crse": "1000",
+         "day1": "T",
+         "prof": "Moshe J. Bernstein",
+         "time1finish": "02:45pm",
+         "time1start": "01:05pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Bible:Text, Context, Tradition"
+      },
+      "33970": {
+         "credits": 2,
+         "crse": "1000",
+         "day1": "R",
+         "prof": "Yaakov Elman",
+         "time1finish": "02:45pm",
+         "time1start": "01:05pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Bible:Text, Context, Tradition"
+      },
+      "33971": {
+         "credits": 2,
+         "crse": "1000",
+         "day1": "R",
+         "prof": "Moshe J. Bernstein",
+         "time1finish": "02:45pm",
+         "time1start": "01:05pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Bible:Text, Context, Tradition"
+      },
+      "33972": {
+         "credits": 2,
+         "crse": "1000",
+         "day1": "T",
+         "prof": "Shalom Carmy",
+         "time1finish": "02:45pm",
+         "time1start": "01:05pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Bible:Text, Context, Tradition"
+      },
+      "33973": {
+         "credits": 2,
+         "crse": "1000",
+         "day1": "R",
+         "prof": "Shalom Carmy",
+         "time1finish": "02:45pm",
+         "time1start": "01:05pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Bible:Text, Context, Tradition"
+      },
+      "33974": {
+         "credits": 2,
+         "crse": "1220",
+         "day1": "T",
+         "prof": "Elazar Hurvitz",
+         "time1finish": "02:45pm",
+         "time1start": "01:05pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Biblical Midrashim"
+      },
+      "33975": {
+         "credits": 2,
+         "crse": "2740",
+         "day1": "R",
+         "prof": "Elazar Hurvitz",
+         "time1finish": "02:45pm",
+         "time1start": "01:05pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Job"
+      },
+      "34637": {
+         "credits": 3,
+         "crse": "2700",
+         "day1": "R",
+         "prof": "Joseph L. Angel",
+         "time1finish": "02:45pm",
+         "time1start": "01:05pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Psalms"
+      },
+      "35569": {
+         "credits": 2,
+         "crse": "2720",
+         "day1": "T",
+         "prof": "Jeremy Wieder",
+         "time1finish": "02:45pm",
+         "time1start": "01:05pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Proverbs"
+      },
+      "35571": {
+         "credits": 2,
+         "crse": "2000H",
+         "day1": "T",
+         "prof": "Barry L. Eichler",
+         "time1finish": "02:45pm",
+         "time1start": "01:05pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Genesis"
+      },
+      "35572": {
+         "credits": 2,
+         "crse": "2800",
+         "day1": "R",
+         "prof": "J. Mitchell Orlian",
+         "time1finish": "02:45pm",
+         "time1start": "01:05pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Daniel"
+      },
+      "35573": {
+         "credits": 3,
+         "crse": "2020H",
+         "day1": "TR",
+         "prof": "Shalom Carmy",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Exodus"
+      },
+      "35575": {
+         "credits": 2,
+         "crse": "2800",
+         "day1": "T",
+         "prof": "J. Mitchell Orlian",
+         "time1finish": "02:45pm",
+         "time1start": "01:05pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Daniel"
+      }
+   },
+   "Biology": {
+      "33868": {
+         "credits": 2,
+         "crse": "1011L",
+         "day1": "M",
+         "prof": "Sondra Solomon",
+         "time1finish": "10:05pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Principles Lab"
+      },
+      "33869": {
+         "credits": 2,
+         "crse": "1011L",
+         "day1": "T",
+         "prof": "Aaron Kogut",
+         "time1finish": "10:05pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Principles Lab"
+      },
+      "33870": {
+         "credits": 2,
+         "crse": "1011L",
+         "day1": "W",
+         "prof": "Sondra Solomon",
+         "time1finish": "10:05pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Principles Lab"
+      },
+      "33872": {
+         "credits": 3,
+         "crse": "1011R",
+         "day1": "TR",
+         "prof": "Somdeb Mitra",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Principles Lectures"
+      },
+      "33873": {
+         "credits": 2,
+         "crse": "1376L",
+         "day1": "R",
+         "prof": "Somdeb Mitra",
+         "time1finish": "10:05pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Biochemistry Lab"
+      },
+      "33874": {
+         "credits": 3,
+         "crse": "1376R",
+         "day1": "TR",
+         "prof": "Daniel Lim",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Biochemistry Lecture"
+      },
+      "33876": {
+         "credits": 4,
+         "crse": "3135C",
+         "day1": "M",
+         "day2": "T",
+         "prof": "Vincent Chiappetta",
+         "time1finish": "10:05pm",
+         "time1start": "06:45pm",
+         "time2finish": "04:40pm",
+         "time2start": "03:00pm",
+         "title": "Cell Structure & Function"
+      },
+      "33877": {
+         "credits": 4,
+         "crse": "3207C",
+         "day1": "TR",
+         "day2": "T",
+         "prof": "Yakov Peter",
+         "time1finish": "03:50pm",
+         "time1start": "03:00pm",
+         "time2finish": "10:05pm",
+         "time2start": "06:45pm",
+         "title": "Cell Biology"
+      },
+      "33920": {
+         "credits": 2,
+         "crse": "4023L",
+         "day1": "W",
+         "prof": "TBA",
+         "time1finish": "10:05pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Microbiology Lab"
+      },
+      "33921": {
+         "credits": 2,
+         "crse": "4023R",
+         "day1": "M",
+         "prof": "Moses D. Tendler",
+         "time1finish": "06:10pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Microbiology"
+      },
+      "33939": {
+         "credits": 4,
+         "crse": "3513C",
+         "day1": "MW",
+         "day2": "W",
+         "prof": "Josefa M. Steinhauer",
+         "time1finish": "03:50pm",
+         "time1start": "03:00pm",
+         "time2finish": "10:05pm",
+         "time2start": "06:45pm",
+         "title": "Genetics"
+      },
+      "33940": {
+         "credits": 4,
+         "crse": "3728C",
+         "day1": "R",
+         "day2": "R",
+         "prof": "Sumanta Goswami",
+         "time1finish": "06:40pm",
+         "time1start": "05:00pm",
+         "time2finish": "10:05pm",
+         "time2start": "06:45pm",
+         "title": "Human & Animal Physiology"
+      },
+      "33977": {
+         "credits": 2,
+         "crse": "4934H",
+         "day1": "R",
+         "prof": "Yakov Peter",
+         "time1finish": "08:25pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Topics: Stem Cells"
+      },
+      "33978": {
+         "credits": 0,
+         "crse": "4901",
+         "day1": "TBA",
+         "prof": "08/29-01/11",
+         "time1finish": "ERROR",
+         "time1start": "0",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Research in Biology"
+      },
+      "35574": {
+         "credits": 3,
+         "crse": "4930",
+         "day1": "MW",
+         "prof": "Esther Devorah Rollhaus",
+         "time1finish": "08:00pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Topics: Psychopharmacology"
+      }
+   },
+   "Chemistry": {
+      "33878": {
+         "credits": 3,
+         "crse": "1045R",
+         "day1": "TR",
+         "day2": "R",
+         "prof": "James Camara",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "06:40pm",
+         "time2start": "05:50pm",
+         "title": "General Chemistry I Lec"
+      },
+      "33879": {
+         "credits": 3,
+         "crse": "1213R",
+         "day1": "TR",
+         "day2": "R",
+         "prof": "Fabiola Barrios-Landeros",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "06:40pm",
+         "time2start": "05:50pm",
+         "title": "Organic Chemistry I Lec"
+      },
+      "33927": {
+         "credits": 2,
+         "crse": "1376L",
+         "day1": "R",
+         "prof": "Somdeb Mitra",
+         "time1finish": "10:05pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Biochemistry Lab"
+      },
+      "33928": {
+         "credits": 3,
+         "crse": "1376R",
+         "day1": "TR",
+         "prof": "Daniel Lim",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Biochemistry Lec"
+      },
+      "33932": {
+         "credits": 4,
+         "crse": "1415R",
+         "day1": "MW",
+         "day2": "M",
+         "prof": "Raji Viswanathan",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "07:40pm",
+         "time2start": "06:50pm",
+         "title": "Physical Chemistry I"
+      },
+      "33961": {
+         "credits": 2,
+         "crse": "1215L",
+         "day1": "M",
+         "prof": "TBA",
+         "time1finish": "10:45pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Organic Chemistry Lab"
+      },
+      "33962": {
+         "credits": 2,
+         "crse": "1215L",
+         "day1": "T",
+         "prof": "Racquel K. Malcolm-Whyte",
+         "time1finish": "10:45pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Organic Chemistry Lab"
+      },
+      "33963": {
+         "credits": 2,
+         "crse": "1215L",
+         "day1": "F",
+         "prof": "Fabiola Barrios-Landeros",
+         "time1finish": "01:00pm",
+         "time1start": "09:00am",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Organic Chemistry Lab"
+      },
+      "33979": {
+         "credits": 0,
+         "crse": "4901",
+         "day1": "TBA",
+         "prof": "08/29-01/11",
+         "time1finish": "ERROR",
+         "time1start": "0",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Research in Chemistry"
+      },
+      "34029": {
+         "credits": 4,
+         "crse": "1122H",
+         "day1": "MW",
+         "day2": "W",
+         "prof": "Jianfeng Jiang",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "09:45pm",
+         "time2start": "06:45pm",
+         "title": "Chemical Analysis"
+      }
+   },
+   "Computer Science": {
+      "33922": {
+         "credits": 3,
+         "crse": "3610",
+         "day1": "MW",
+         "prof": "TBA",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Intro to Operating Systems"
+      },
+      "33931": {
+         "credits": 3,
+         "crse": "3780",
+         "day1": "MW",
+         "prof": "Van Kelly",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Web Programming & Development"
+      },
+      "33936": {
+         "credits": 4,
+         "crse": "1320C",
+         "day1": "TR",
+         "prof": "TBA",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Data Structures"
+      },
+      "33943": {
+         "credits": 4,
+         "crse": "1504C",
+         "day1": "TR",
+         "day2": "R",
+         "prof": "Arnold Lebow",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "08:00pm",
+         "time2start": "06:45pm",
+         "title": "Discrete Structures"
+      },
+      "33955": {
+         "credits": 0,
+         "crse": "1300L",
+         "day1": "W",
+         "prof": "Mahdokht Behravan",
+         "time1finish": "06:40pm",
+         "time1start": "05:50pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Intro to Computer Science-Lab"
+      },
+      "33985": {
+         "credits": 4,
+         "crse": "1300C",
+         "day1": "MW",
+         "prof": "Van Kelly",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Intro to Computer Science"
+      },
+      "34030": {
+         "credits": 0,
+         "crse": "1320L",
+         "day1": "M",
+         "prof": "TBA",
+         "time1finish": "08:00pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Data Structures Lab"
+      },
+      "34129": {
+         "credits": 0,
+         "crse": "1300L",
+         "day1": "T",
+         "prof": "Mahdokht Behravan",
+         "time1finish": "06:40pm",
+         "time1start": "05:50pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Intro to Computer Science-Lab"
+      },
+      "35896": {
+         "credits": 3,
+         "crse": "1621",
+         "day1": "TR",
+         "prof": "Arnold Lebow",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Theory of Computation"
+      }
+   },
+   "Contemporary World Cultures": {
+      "34023": {
+         "credits": 3,
+         "crse": "1002",
+         "day1": "TR",
+         "prof": "Elizabeth Stewart",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Diaspora Literature"
+      },
+      "35579": {
+         "credits": 3,
+         "crse": "1025",
+         "day1": "F",
+         "prof": "Jonathan J. Zisook",
+         "time1finish": "12:00pm",
+         "time1start": "09:30am",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Religion and Society"
+      },
+      "35644": {
+         "credits": 3,
+         "crse": "1014",
+         "day1": "TR",
+         "prof": "Jonathan Schapiro",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "American Musical Cultures"
+      },
+      "35645": {
+         "credits": 3,
+         "crse": "1017",
+         "day1": "TR",
+         "prof": "Graciela Bazet de Broitman",
+         "time1finish": "08:00pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "The Spanish Civil War"
+      },
+      "35646": {
+         "credits": 3,
+         "crse": "1020",
+         "day1": "MW",
+         "prof": "Roberto Genoves",
+         "time1finish": "08:00pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Politics and Global Markets"
+      }
+   },
+   "Cultures Over Time": {
+      "34108": {
+         "credits": 3,
+         "crse": "1003",
+         "day1": "MW",
+         "prof": "David Lavinsky",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "The Monstrous"
+      },
+      "34132": {
+         "credits": 3,
+         "crse": "1021",
+         "day1": "TR",
+         "prof": "Jeffrey Freedman",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Democratic Political Culture"
+      },
+      "35647": {
+         "credits": 3,
+         "crse": "1003H",
+         "day1": "MW",
+         "prof": "David Lavinsky",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "The Monstrous"
+      },
+      "35648": {
+         "credits": 3,
+         "crse": "1009",
+         "day1": "MW",
+         "prof": "Rachel Mesch",
+         "time1finish": "02:45pm",
+         "time1start": "01:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "France and its Others"
+      },
+      "35649": {
+         "credits": 3,
+         "crse": "1026",
+         "day1": "F",
+         "prof": "Aaron J. Koller",
+         "time1finish": "12:00pm",
+         "time1start": "09:30am",
+         "time2finish": "",
+         "time2start": "",
+         "title": "History of the Alphabet"
+      }
+   },
+   "Economics": {
+      "33923": {
+         "credits": 3,
+         "crse": "1201",
+         "day1": "MW",
+         "prof": "Omer Acikgoz",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Intermediate Macroeconomics"
+      },
+      "33935": {
+         "credits": 3,
+         "crse": "1421",
+         "day1": "M",
+         "prof": "Aboozar Hadavand",
+         "time1finish": "09:30pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Econometrics"
+      },
+      "34002": {
+         "credits": 3,
+         "crse": "1177",
+         "day1": "TR",
+         "prof": "Tadashi Hashimoto",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Game Theory"
+      },
+      "34082": {
+         "credits": 3,
+         "crse": "1010",
+         "day1": "TR",
+         "prof": "Ran Shao",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Principles of Economics"
+      },
+      "35584": {
+         "credits": 3,
+         "crse": "1701",
+         "day1": "TR",
+         "prof": "Elias C. Grivoyannis",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "International Economics"
+      },
+      "35846": {
+         "credits": 3,
+         "crse": "1221H",
+         "day1": "TR",
+         "prof": "Elias C. Grivoyannis",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Money and Banking"
+      }
+   },
+   "English": {
+      "33919": {
+         "credits": 2,
+         "crse": "0010",
+         "day1": "MW",
+         "prof": "Norma Silbermintz",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "ESL: Intro to College"
+      },
+      "33933": {
+         "credits": 2,
+         "crse": "4001",
+         "day1": "W",
+         "prof": "Lauren Fitzgerald",
+         "time1finish": "09:45pm",
+         "time1start": "08:15pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Senior Colloquium"
+      },
+      "33958": {
+         "credits": 1,
+         "crse": "0011",
+         "day1": "MW",
+         "prof": "Norma Silbermintz",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Eng as Sec Lang I"
+      },
+      "33959": {
+         "credits": 1,
+         "crse": "0012",
+         "day1": "MW",
+         "prof": "Norma Silbermintz",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Eng as Sec Lang II"
+      },
+      "33960": {
+         "credits": 1,
+         "crse": "0013",
+         "day1": "MW",
+         "prof": "Norma Silbermintz",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Eng as Sec Lang III"
+      },
+      "35652": {
+         "credits": 3,
+         "crse": "1002",
+         "day1": "TR",
+         "prof": "Elizabeth Stewart",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Diaspora Literature"
+      },
+      "35653": {
+         "credits": 3,
+         "crse": "1003",
+         "day1": "TR",
+         "prof": "William Lamborn Lee",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Shakespeare and the Arts"
+      },
+      "35654": {
+         "credits": 3,
+         "crse": "1007",
+         "day1": "MW",
+         "prof": "Richard Leonard Nochimson",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Fiction & Artistic Imagination"
+      },
+      "35655": {
+         "credits": 3,
+         "crse": "3065",
+         "day1": "M",
+         "prof": "Rachel Mesch",
+         "time1finish": "09:15pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Gender and Literature"
+      },
+      "35656": {
+         "credits": 3,
+         "crse": "1409",
+         "day1": "MW",
+         "prof": "Liesl Schwabe",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Writing the Essay"
+      },
+      "35657": {
+         "credits": 3,
+         "crse": "2317",
+         "day1": "T",
+         "prof": "David Lavinsky",
+         "time1finish": "09:15pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "21st Century Chaucer"
+      },
+      "35658": {
+         "credits": 3,
+         "crse": "2963H",
+         "day1": "F",
+         "prof": "Elizabeth Stewart",
+         "time1finish": "12:30pm",
+         "time1start": "10:00am",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Graphic Novels and Animation"
+      },
+      "35677": {
+         "credits": 3,
+         "crse": "2052",
+         "day1": "TR",
+         "prof": "William Lamborn Lee",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Realisms: Mimetic to Magical"
+      }
+   },
+   "Experimental & Quant. Methods": {
+      "34007": {
+         "credits": 3,
+         "crse": "1002",
+         "day1": "M",
+         "day2": "W",
+         "prof": "Raji Viswanathan",
+         "time1finish": "06:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "05:45pm",
+         "time2start": "04:30pm",
+         "title": "Analysis of Environmntl Toxins"
+      },
+      "35578": {
+         "credits": 3,
+         "crse": "1007",
+         "day1": "TR",
+         "prof": "Daniel Kimmel",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Epidemiology"
+      }
+   },
+   "First Year Writing": {
+      "34068": {
+         "credits": 3,
+         "crse": "1020",
+         "day1": "MW",
+         "prof": "TBA",
+         "time1finish": "02:45pm",
+         "time1start": "01:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "First Year Writing"
+      },
+      "34069": {
+         "credits": 3,
+         "crse": "1020",
+         "day1": "MW",
+         "prof": "TBA",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "First Year Writing"
+      },
+      "34070": {
+         "credits": 3,
+         "crse": "1020",
+         "day1": "MW",
+         "prof": "TBA",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "First Year Writing"
+      },
+      "34071": {
+         "credits": 3,
+         "crse": "1020",
+         "day1": "TR",
+         "prof": "TBA",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "First Year Writing"
+      },
+      "34072": {
+         "credits": 3,
+         "crse": "1020",
+         "day1": "TR",
+         "prof": "TBA",
+         "time1finish": "02:45pm",
+         "time1start": "01:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "First Year Writing"
+      },
+      "34073": {
+         "credits": 3,
+         "crse": "1020",
+         "day1": "TR",
+         "prof": "TBA",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "First Year Writing"
+      },
+      "34076": {
+         "credits": 3,
+         "crse": "1020",
+         "day1": "MW",
+         "prof": "Norma Silbermintz",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "First Year Writing:ESL"
+      },
+      "34117": {
+         "credits": 3,
+         "crse": "1020",
+         "day1": "TR",
+         "prof": "TBA",
+         "time1finish": "08:00pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "First Year Writing"
+      },
+      "35582": {
+         "credits": 3,
+         "crse": "1020",
+         "day1": "MW",
+         "prof": "TBA",
+         "time1finish": "08:00pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "First Year Writing"
+      }
+   },
+   "French": {
+      "33881": {
+         "credits": 3,
+         "crse": "1101",
+         "day1": "TR",
+         "prof": "Raisa Rexer",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Elementary French I"
+      },
+      "34119": {
+         "credits": 3,
+         "crse": "1201",
+         "day1": "TR",
+         "prof": "Raisa Rexer",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Intermediate French I"
+      }
+   },
+   "Hebrew": {
+      "33948": {
+         "credits": 3,
+         "crse": "1006",
+         "day1": "MTWR",
+         "prof": "Ezra H. Frazer",
+         "time1finish": "02:25pm",
+         "time1start": "01:35pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Intermed. Biblical Hebrew II"
+      },
+      "33952": {
+         "credits": 3,
+         "crse": "1005",
+         "day1": "MW",
+         "day2": "T",
+         "prof": "Rachel Kra Schaum",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "06:40pm",
+         "time2start": "05:50pm",
+         "title": "Intermed. Biblical Hebrew I"
+      },
+      "33953": {
+         "credits": 3,
+         "crse": "1105",
+         "day1": "MTWR",
+         "prof": "Chaya Glaser",
+         "time1finish": "02:25pm",
+         "time1start": "01:35pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Intermediate Hebrew I"
+      },
+      "33976": {
+         "credits": 3,
+         "crse": "1004",
+         "day1": "MTWR",
+         "prof": "Lori Linzer",
+         "time1finish": "02:25pm",
+         "time1start": "01:35pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Elementary Biblical Hebrew II"
+      },
+      "34012": {
+         "credits": 3,
+         "crse": "1004",
+         "day1": "MWR",
+         "day2": "T",
+         "prof": "Lori Linzer",
+         "time1finish": "12:50pm",
+         "time1start": "12:00pm",
+         "time2finish": "01:10pm",
+         "time2start": "12:20pm",
+         "title": "Elementary Biblical Hebrew II"
+      },
+      "34013": {
+         "credits": 3,
+         "crse": "1005",
+         "day1": "MWR",
+         "day2": "T",
+         "prof": "Rachel Kra Schaum",
+         "time1finish": "12:50pm",
+         "time1start": "12:00pm",
+         "time2finish": "01:10pm",
+         "time2start": "12:20pm",
+         "title": "Intermed. Biblical Hebrew I"
+      },
+      "34014": {
+         "credits": 3,
+         "crse": "1006",
+         "day1": "MW",
+         "day2": "T",
+         "prof": "Ezra H. Frazer",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "06:40pm",
+         "time2start": "05:50pm",
+         "title": "Intermed. Biblical Hebrew II"
+      },
+      "34015": {
+         "credits": 3,
+         "crse": "1105",
+         "day1": "MW",
+         "day2": "T",
+         "prof": "Chaya Glaser",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "01:10pm",
+         "time2start": "12:20pm",
+         "title": "Intermediate Hebrew I"
+      },
+      "34016": {
+         "credits": 3,
+         "crse": "1106",
+         "day1": "TR",
+         "day2": "W",
+         "prof": "Chaya Glaser",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "12:50pm",
+         "time2start": "12:00pm",
+         "title": "Intermediate Hebrew II"
+      },
+      "34017": {
+         "credits": 3,
+         "crse": "1206",
+         "day1": "MW",
+         "prof": "Samuel Schneider",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Upper Intermediate Hebrew II"
+      },
+      "34034": {
+         "credits": 3,
+         "crse": "1306",
+         "day1": "TR",
+         "prof": "Sarah Kasher-Bendet",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Advanced Hebrew II"
+      },
+      "34053": {
+         "credits": 3,
+         "crse": "1206",
+         "day1": "MW",
+         "prof": "Samuel Schneider",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Upper Intermediate Hebrew II"
+      },
+      "34054": {
+         "credits": 3,
+         "crse": "1206",
+         "day1": "TR",
+         "prof": "Sigal Shalom",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Upper Intermediate Hebrew II"
+      },
+      "34055": {
+         "credits": 3,
+         "crse": "1306",
+         "day1": "MW",
+         "prof": "Sarah Kasher-Bendet",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Advanced Hebrew II"
+      },
+      "35662": {
+         "credits": 3,
+         "crse": "1206",
+         "day1": "MW",
+         "prof": "Sigal Shalom",
+         "time1finish": "02:45pm",
+         "time1start": "01:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Upper Intermediate Hebrew II"
+      },
+      "35663": {
+         "credits": 3,
+         "crse": "1206",
+         "day1": "MW",
+         "prof": "Samuel Schneider",
+         "time1finish": "08:00pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Upper Intermediate Hebrew II"
+      },
+      "35664": {
+         "credits": 3,
+         "crse": "1306H",
+         "day1": "MW",
+         "prof": "Sarah Kasher-Bendet",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Advanced Hebrew II"
+      }
+   },
+   "History": {
+      "34137": {
+         "credits": 3,
+         "crse": "2128",
+         "day1": "TR",
+         "prof": "Jeffrey Freedman",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Democratic Political Culture"
+      },
+      "35602": {
+         "credits": 3,
+         "crse": "1105",
+         "day1": "MW",
+         "prof": "Shalom E. Holtz",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "His. of the Ancient Near East"
+      },
+      "35604": {
+         "credits": 3,
+         "crse": "2520",
+         "day1": "TR",
+         "prof": "Douglas Burgess",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Atlantic World"
+      },
+      "35605": {
+         "credits": 3,
+         "crse": "2604",
+         "day1": "TR",
+         "prof": "Douglas Burgess",
+         "time1finish": "08:00pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Piracy & the Nation State"
+      },
+      "35666": {
+         "credits": 3,
+         "crse": "2127H",
+         "day1": "F",
+         "prof": "Jeffrey Freedman",
+         "time1finish": "12:30pm",
+         "time1start": "10:00am",
+         "time2finish": "",
+         "time2start": "",
+         "title": "The European Enlightenment"
+      },
+      "35711": {
+         "credits": 3,
+         "crse": "2165",
+         "day1": "MW",
+         "prof": "Mario Kessler",
+         "time1finish": "08:00pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Europe since 1945"
+      }
+   },
+   "Honors": {
+      "33917": {
+         "credits": 0,
+         "crse": "4980H",
+         "day1": " ",
+         "prof": "Gabriel Cwilich",
+         "time1finish": "ERROR",
+         "time1start": "TBA",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Honors Thesis: Preparation"
+      },
+      "33918": {
+         "credits": 0,
+         "crse": "4981H",
+         "day1": " ",
+         "prof": "Gabriel Cwilich",
+         "time1finish": "ERROR",
+         "time1start": "TBA",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Honors Thesis: Writing"
+      },
+      "33929": {
+         "credits": 0.5,
+         "crse": "4978H",
+         "day1": " ",
+         "prof": "TBA",
+         "time1finish": "ERROR",
+         "time1start": "TBA",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Honors Thesis Seminar I"
+      },
+      "33930": {
+         "credits": 0.5,
+         "crse": "4979H",
+         "day1": " ",
+         "prof": "TBA",
+         "time1finish": "ERROR",
+         "time1start": "TBA",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Honors Thesis Seminar II"
+      },
+      "33984": {
+         "credits": 1,
+         "crse": "4977H",
+         "day1": " ",
+         "prof": "Gabriel Cwilich",
+         "time1finish": "ERROR",
+         "time1start": "TBA",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Honors Thesis Proposal"
+      }
+   },
+   "Human Behavior Soc Institution": {
+      "33967": {
+         "credits": 3,
+         "crse": "1007",
+         "day1": "TR",
+         "prof": "Ariel Malka",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Psychology and Public Opinion"
+      },
+      "34050": {
+         "credits": 3,
+         "crse": "1006",
+         "day1": "TR",
+         "prof": "Elias C. Grivoyannis",
+         "time1finish": "08:00pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Economics Efficiency & Justice"
+      },
+      "35583": {
+         "credits": 3,
+         "crse": "1007H",
+         "day1": "TR",
+         "prof": "Ariel Malka",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Psychology and Public Opinion"
+      },
+      "35585": {
+         "credits": 3,
+         "crse": "1012",
+         "day1": "F",
+         "prof": "Akiva J. Covitz",
+         "time1finish": "12:30pm",
+         "time1start": "10:00am",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Courts and Social Change"
+      },
+      "35659": {
+         "credits": 3,
+         "crse": "1014",
+         "day1": "MW",
+         "prof": "Jamie Aroosi",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "American Public Policy"
+      },
+      "35660": {
+         "credits": 3,
+         "crse": "1016H",
+         "day1": "M",
+         "prof": "Amy Stuart",
+         "time1finish": "09:15pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Sociology of Race and Racism"
+      }
+   },
+   "Interpreting the Creative": {
+      "33994": {
+         "credits": 3,
+         "crse": "1016",
+         "day1": "TR",
+         "prof": "Jess J. Olson",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Culture of the Fin de Siecle"
+      },
+      "34131": {
+         "credits": 3,
+         "crse": "1018",
+         "day1": "MW",
+         "prof": "Daniel Beliavsky",
+         "time1finish": "08:00pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Aesthetic Revolutions"
+      },
+      "35606": {
+         "credits": 3,
+         "crse": "1003",
+         "day1": "TR",
+         "prof": "William Lamborn Lee",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Shakespeare and the Arts"
+      },
+      "35607": {
+         "credits": 3,
+         "crse": "1022",
+         "day1": "F",
+         "prof": "Ronnie Perelis",
+         "time1finish": "12:30pm",
+         "time1start": "10:00am",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Travel Narratives"
+      },
+      "35608": {
+         "credits": 3,
+         "crse": "1007",
+         "day1": "MW",
+         "prof": "Richard Leonard Nochimson",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Fiction & Artistic Imagination"
+      },
+      "35688": {
+         "credits": 3,
+         "crse": "1023H",
+         "day1": "F",
+         "prof": "Jacob Wisse, Meir Yakov Soloveichik ",
+         "time1finish": "12:30pm",
+         "time1start": "10:00am",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Rembrandt and the Jews"
+      }
+   },
+   "Jewish History": {
+      "33986": {
+         "credits": 3,
+         "crse": "1200",
+         "day1": "TR",
+         "prof": "Steven Fine",
+         "time1finish": "08:00pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Classical Jewish History"
+      },
+      "33987": {
+         "credits": 3,
+         "crse": "1300",
+         "day1": "MW",
+         "prof": "Chaviva Levin",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Medieval Jewish History"
+      },
+      "34006": {
+         "credits": 3,
+         "crse": "1400",
+         "day1": "MW",
+         "prof": "Joshua Karlip",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Modern Jewish History"
+      },
+      "35611": {
+         "credits": 3,
+         "crse": "1300H",
+         "day1": "MW",
+         "prof": "Chaviva Levin",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Medieval Jewish History"
+      },
+      "35668": {
+         "credits": 3,
+         "crse": "1400",
+         "day1": "TR",
+         "prof": "Jess J. Olson",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Modern Jewish History"
+      },
+      "35694": {
+         "credits": 3,
+         "crse": "2415",
+         "day1": "MW",
+         "prof": "Shalom Carmy",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Modern Intellectual JHI"
+      },
+      "35695": {
+         "credits": 3,
+         "crse": "2210H",
+         "day1": "TR",
+         "prof": "Moshe J. Bernstein",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Classical Intellectual JHI"
+      }
+   },
+   "Jewish Philosophy": {
+      "35610": {
+         "credits": 3,
+         "crse": "1380",
+         "day1": "TR",
+         "prof": "Jonathan V. Dauber",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Early Kabbalah"
+      }
+   },
+   "Mathematics": {
+      "33882": {
+         "credits": 4,
+         "crse": "1160",
+         "day1": "M",
+         "day2": "TR",
+         "prof": "Donald Taylor-Bruce",
+         "time1finish": "06:40pm",
+         "time1start": "05:50pm",
+         "time2finish": "05:45pm",
+         "time2start": "04:30pm",
+         "title": "Precalculus"
+      },
+      "33883": {
+         "credits": 0,
+         "crse": "1401",
+         "day1": "M",
+         "prof": "Yan Li",
+         "time1finish": "06:40pm",
+         "time1start": "05:50pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Problem Seminar I"
+      },
+      "33884": {
+         "credits": 0,
+         "crse": "1401",
+         "day1": "T",
+         "prof": "Yan Li",
+         "time1finish": "07:35pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Problem Seminar I"
+      },
+      "33885": {
+         "credits": 0,
+         "crse": "1403",
+         "day1": "R",
+         "prof": "Donald Taylor-Bruce",
+         "time1finish": "06:40pm",
+         "time1start": "05:50pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Problem Seminar III"
+      },
+      "33886": {
+         "credits": 4,
+         "crse": "1412",
+         "day1": "TR",
+         "prof": "Yan Li",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Calculus I"
+      },
+      "33887": {
+         "credits": 4,
+         "crse": "1413",
+         "day1": "TR",
+         "prof": "Wenxiong Chen",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Calculus II"
+      },
+      "33888": {
+         "credits": 4,
+         "crse": "1510",
+         "day1": "TR",
+         "prof": "Wenxiong Chen",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Multivariable Calculus"
+      },
+      "33889": {
+         "credits": 3,
+         "crse": "1520",
+         "day1": "MW",
+         "prof": "Wenxiong Chen",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Advanced Calculus I"
+      },
+      "33890": {
+         "credits": 3,
+         "crse": "2461",
+         "day1": "MW",
+         "prof": "TBA",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Probability Theory"
+      },
+      "33925": {
+         "credits": 0,
+         "crse": "1402",
+         "day1": "R",
+         "prof": "Yan Li",
+         "time1finish": "06:40pm",
+         "time1start": "05:50pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Problem Seminar II"
+      },
+      "33942": {
+         "credits": 3,
+         "crse": "2105",
+         "day1": "TR",
+         "prof": "Maxwell Musser",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Linear Algebra"
+      },
+      "33957": {
+         "credits": 4,
+         "crse": "1504C",
+         "day1": "TR",
+         "day2": "R",
+         "prof": "Arnold Lebow",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "08:00pm",
+         "time2start": "06:45pm",
+         "title": "Discrete Structures"
+      },
+      "34040": {
+         "credits": 0,
+         "crse": "1401",
+         "day1": "M",
+         "prof": "Yan Li",
+         "time1finish": "05:20pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Problem Seminar I"
+      }
+   },
+   "Music": {
+      "33934": {
+         "credits": 3,
+         "crse": "2113",
+         "day1": "MW",
+         "prof": "Kurt Nelson",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Chromatic Harmony I"
+      },
+      "33937": {
+         "credits": 1,
+         "crse": "4111",
+         "day1": " ",
+         "prof": "Daniel Beliavsky",
+         "time1finish": "ERROR",
+         "time1start": "TBA",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Applied Musical Study"
+      },
+      "33996": {
+         "credits": 3,
+         "crse": "1350",
+         "day1": "MW",
+         "prof": "Daniel Beliavsky",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Baroque & Classical Music"
+      },
+      "34018": {
+         "credits": 3,
+         "crse": "2111",
+         "day1": "MW",
+         "prof": "Daniel Beliavsky",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Diatonic Harmony&Counterpoint"
+      },
+      "34019": {
+         "credits": 1,
+         "crse": "2111L",
+         "day1": "M",
+         "prof": "Daniel Beliavsky",
+         "time1finish": "06:40pm",
+         "time1start": "05:50pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Ear Training I"
+      },
+      "34042": {
+         "credits": 2,
+         "crse": "2120",
+         "day1": "TR",
+         "prof": "Jonathan Schapiro",
+         "time1finish": "03:50pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Introduction to Composition"
+      },
+      "34074": {
+         "credits": 3,
+         "crse": "1829H",
+         "day1": "TR",
+         "prof": "Harry Ballan",
+         "time1finish": "08:00pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Music and the Brain"
+      },
+      "34135": {
+         "credits": 3,
+         "crse": "1018",
+         "day1": "MW",
+         "prof": "Daniel Beliavsky",
+         "time1finish": "08:00pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Aesthetic Revolutions"
+      },
+      "35616": {
+         "credits": 1,
+         "crse": "3464",
+         "day1": " ",
+         "prof": "Daniel Beliavsky",
+         "time1finish": "ERROR",
+         "time1start": "TBA",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Performance: Chamber Ensemble"
+      },
+      "35617": {
+         "credits": 1,
+         "crse": "3469",
+         "day1": " ",
+         "prof": "Jonathan Schapiro",
+         "time1finish": "ERROR",
+         "time1start": "TBA",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Performance: Jazz Ensemble"
+      },
+      "35669": {
+         "credits": 3,
+         "crse": "1014",
+         "day1": "TR",
+         "prof": "Jonathan Schapiro",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "American Musical Cultures"
+      },
+      "35670": {
+         "credits": 1,
+         "crse": "2113L",
+         "day1": "MW",
+         "prof": "Kurt Nelson",
+         "time1finish": "06:40pm",
+         "time1start": "05:50pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Ear Training III"
+      }
+   },
+   "Natural World": {
+      "35696": {
+         "credits": 3,
+         "crse": "1010",
+         "day1": "MW",
+         "prof": "TBA",
+         "time1finish": "08:00pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Frontiers of Science"
+      },
+      "35697": {
+         "credits": 3,
+         "crse": "1110",
+         "day1": "F",
+         "prof": "Gabriel Cwilich",
+         "time1finish": "12:00pm",
+         "time1start": "09:30am",
+         "time2finish": "",
+         "time2start": "",
+         "title": "The Imagination of Nature"
+      }
+   },
+   "Philosophy": {
+      "34109": {
+         "credits": 3,
+         "crse": "2170H",
+         "day1": "MW",
+         "prof": "David R. Johnson",
+         "time1finish": "08:00pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Ancient & Medieval Philosophy"
+      },
+      "34146": {
+         "credits": 3,
+         "crse": "4930H",
+         "day1": "TR",
+         "prof": "Meir Yakov Soloveichik",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Topics: Judaism and Democracy"
+      },
+      "35618": {
+         "credits": 3,
+         "crse": "1100",
+         "day1": "MW",
+         "prof": "David R. Johnson",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Logic"
+      },
+      "35619": {
+         "credits": 3,
+         "crse": "4930",
+         "day1": "TR",
+         "prof": "Daniel Rynhold",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Topics: Kant"
+      },
+      "35671": {
+         "credits": 3,
+         "crse": "4931",
+         "day1": "MW",
+         "prof": "David R. Johnson",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Seminar: Paradoxes"
+      }
+   },
+   "Physical Education": {
+      "33904": {
+         "credits": 0.5,
+         "crse": "1426",
+         "day1": "TBA",
+         "prof": "08/29-01/11",
+         "time1finish": "ERROR",
+         "time1start": "42",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Team Basketball"
+      },
+      "33905": {
+         "credits": 0.5,
+         "crse": "1511",
+         "day1": "TBA",
+         "prof": "08/29-01/11",
+         "time1finish": "ERROR",
+         "time1start": "30",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Team Soccer"
+      },
+      "33906": {
+         "credits": 0.5,
+         "crse": "1611",
+         "day1": "TBA",
+         "prof": "08/29-01/11",
+         "time1finish": "ERROR",
+         "time1start": "30",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Team Baseball"
+      },
+      "33907": {
+         "credits": 0.5,
+         "crse": "2316",
+         "day1": "TBA",
+         "prof": "08/29-01/11",
+         "time1finish": "ERROR",
+         "time1start": "20",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Team Cross-Country"
+      },
+      "33908": {
+         "credits": 0.5,
+         "crse": "2466",
+         "day1": "TBA",
+         "prof": "08/29-01/11",
+         "time1finish": "ERROR",
+         "time1start": "25",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Team Fencing"
+      },
+      "33944": {
+         "credits": 0.5,
+         "crse": "1346",
+         "day1": "TBA",
+         "prof": "08/29-01/11",
+         "time1finish": "ERROR",
+         "time1start": "15",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Team Tennis"
+      },
+      "33945": {
+         "credits": 0.5,
+         "crse": "1326",
+         "day1": "TBA",
+         "prof": "08/29-01/11",
+         "time1finish": "ERROR",
+         "time1start": "15",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Team Volleyball"
+      },
+      "33956": {
+         "credits": 0.5,
+         "crse": "1120",
+         "day1": "TBA",
+         "prof": "08/29-01/11",
+         "time1finish": "ERROR",
+         "time1start": "20",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Team Golf"
+      }
+   },
+   "Physics": {
+      "33892": {
+         "credits": 1,
+         "crse": "1031L",
+         "day1": "M",
+         "prof": "Neer Asherie",
+         "time1finish": "08:25pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Intro Physics Lab"
+      },
+      "33893": {
+         "credits": 4,
+         "crse": "1031R",
+         "day1": "MW",
+         "prof": "Neer Asherie",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Intro Physics Lecture"
+      },
+      "33926": {
+         "credits": 3,
+         "crse": "1621",
+         "day1": "MW",
+         "prof": "Sergey V. Buldyrev",
+         "time1finish": "08:00pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Intro to Quantum Mechanics"
+      },
+      "33941": {
+         "credits": 1,
+         "crse": "4935",
+         "day1": "T",
+         "prof": "Mahdokht Behravan",
+         "time1finish": "12:50pm",
+         "time1start": "12:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Physics Colloquium"
+      },
+      "33964": {
+         "credits": 1,
+         "crse": "1031L",
+         "day1": "W",
+         "prof": "Sheldon J Rosenberg",
+         "time1finish": "02:45pm",
+         "time1start": "01:05pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Intro Physics Lab"
+      },
+      "33982": {
+         "credits": 1,
+         "crse": "1031L",
+         "day1": "W",
+         "prof": "Clifford Marc Bastuscheck",
+         "time1finish": "08:25pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Intro Physics Lab"
+      },
+      "34009": {
+         "credits": 0,
+         "crse": "1051H",
+         "day1": "M",
+         "prof": "Mahdokht Behravan",
+         "time1finish": "06:40pm",
+         "time1start": "05:50pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "General Physics I-Recitation"
+      },
+      "34010": {
+         "credits": 4,
+         "crse": "1051R",
+         "day1": "MW",
+         "prof": "Fredy Zypman",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "General Physics I"
+      },
+      "34087": {
+         "credits": 1,
+         "crse": "2061L",
+         "day1": "T",
+         "prof": "Mahdokht Behravan",
+         "time1finish": "08:45pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "General Physics III Lab"
+      },
+      "34088": {
+         "credits": 4,
+         "crse": "2051R",
+         "day1": "MW",
+         "prof": "Sergey V. Buldyrev",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "General Physics III"
+      },
+      "34140": {
+         "credits": 0,
+         "crse": "4901",
+         "day1": "TBA",
+         "prof": "08/29-01/11",
+         "time1finish": "ERROR",
+         "time1start": "0",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Research in Physics"
+      },
+      "35633": {
+         "credits": 1,
+         "crse": "2061L",
+         "day1": "W",
+         "prof": "Mahdokht Behravan",
+         "time1finish": "08:45pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "General Physics III Lab"
+      },
+      "35634": {
+         "credits": 0,
+         "crse": "1031T",
+         "day1": "M",
+         "prof": "Neer Asherie",
+         "time1finish": "06:40pm",
+         "time1start": "05:50pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Intro Physics I - Recitation"
+      },
+      "35638": {
+         "credits": 0,
+         "crse": "1031T",
+         "day1": "W",
+         "prof": "Neer Asherie",
+         "time1finish": "06:40pm",
+         "time1start": "05:50pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Intro Physics I - Recitation"
+      },
+      "35672": {
+         "credits": 3,
+         "crse": "1510H",
+         "day1": "T",
+         "prof": "Gabriel Cwilich",
+         "time1finish": "09:15pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Statistical Mechanics"
+      },
+      "35676": {
+         "credits": 3,
+         "crse": "1401",
+         "day1": "F",
+         "prof": "Fredy Zypman",
+         "time1finish": "01:30pm",
+         "time1start": "11:00am",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Intro to Solid State Physics"
+      },
+      "35678": {
+         "credits": 0,
+         "crse": "2051T",
+         "day1": "W",
+         "prof": "Sergey V. Buldyrev",
+         "time1finish": "06:40pm",
+         "time1start": "05:50pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "General Physics III-Recitation"
+      },
+      "35888": {
+         "credits": 0,
+         "crse": "1051T",
+         "day1": "W",
+         "prof": "TBA",
+         "time1finish": "06:40pm",
+         "time1start": "05:50pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "General Physics I-Recitation"
+      }
+   },
+   "Political Science": {
+      "33981": {
+         "credits": 3,
+         "crse": "1101",
+         "day1": "MW",
+         "prof": "Jamie Aroosi",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Intro to American Politics"
+      },
+      "33988": {
+         "credits": 3,
+         "crse": "1501",
+         "day1": "TR",
+         "prof": "Ruth Bevan",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Fundamentals of Political Sci."
+      },
+      "34094": {
+         "credits": 3,
+         "crse": "1105",
+         "day1": "MW",
+         "prof": "Jamie Aroosi",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Intro American Public Policy"
+      },
+      "35620": {
+         "credits": 3,
+         "crse": "1305H",
+         "day1": "TR",
+         "prof": "Maria N. Zaitseva",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "American Foreign Policy"
+      },
+      "35621": {
+         "credits": 3,
+         "crse": "3115H",
+         "day1": "MW",
+         "prof": "Joseph Lieberman, Ruth Bevan ",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Presidential Elections"
+      },
+      "35622": {
+         "credits": 3,
+         "crse": "2430",
+         "day1": "TR",
+         "prof": "Ruth Bevan",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "American Political Thought"
+      },
+      "35623": {
+         "credits": 3,
+         "crse": "2320",
+         "day1": "MW",
+         "prof": "Roberto Genoves",
+         "time1finish": "08:00pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Politics and Global Markets"
+      },
+      "35639": {
+         "credits": 3,
+         "crse": "2505",
+         "day1": "TR",
+         "prof": "Maria N. Zaitseva",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Writing Politics:Dir. Research"
+      },
+      "35843": {
+         "credits": 3,
+         "crse": "3575",
+         "day1": "MW",
+         "prof": "TBA",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Research Methods"
+      }
+   },
+   "Psychology": {
+      "33895": {
+         "credits": 3,
+         "crse": "1010",
+         "day1": "MW",
+         "prof": "Eliezer H. Schnall",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Introduction to Psychology"
+      },
+      "33896": {
+         "credits": 3,
+         "crse": "1110",
+         "day1": "M",
+         "prof": "Eliezer H. Schnall",
+         "time1finish": "09:30pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Developmental I: Child"
+      },
+      "33897": {
+         "credits": 5,
+         "crse": "2100C",
+         "day1": "TR",
+         "day2": "R",
+         "prof": "Bruno Galantucci",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "07:45pm",
+         "time2start": "06:00pm",
+         "title": "Experimental Psychology"
+      },
+      "33898": {
+         "credits": 3,
+         "crse": "3105",
+         "day1": "MW",
+         "prof": "Eliezer H. Schnall",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Social Psychology"
+      },
+      "33899": {
+         "credits": 3,
+         "crse": "3804",
+         "day1": "W",
+         "prof": "Ido Davidesco",
+         "time1finish": "09:30pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Psychobiology"
+      },
+      "33968": {
+         "credits": 3,
+         "crse": "1021",
+         "day1": "MW",
+         "prof": "Ariel Malka",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Statistics for Psychology"
+      },
+      "33980": {
+         "credits": 0,
+         "crse": "4901",
+         "day1": "TBA",
+         "prof": "08/29-01/11",
+         "time1finish": "ERROR",
+         "time1start": "0",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Research in Psychology"
+      },
+      "34047": {
+         "credits": 3,
+         "crse": "3435",
+         "day1": "T",
+         "prof": "E. Hoffman",
+         "time1finish": "09:30pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Industrial & Organization Psyc"
+      },
+      "34075": {
+         "credits": 3,
+         "crse": "3829H",
+         "day1": "TR",
+         "prof": "Harry Ballan",
+         "time1finish": "08:00pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Music and the Brain"
+      },
+      "34077": {
+         "credits": 3,
+         "crse": "3110",
+         "day1": "TR",
+         "prof": "Ariel Malka",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Psychology and Public Opinion"
+      },
+      "34112": {
+         "credits": 3,
+         "crse": "2150",
+         "day1": "TR",
+         "prof": "Bruno Galantucci",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Cognitive Psychology"
+      },
+      "35624": {
+         "credits": 3,
+         "crse": "3110H",
+         "day1": "TR",
+         "prof": "Ariel Malka",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Psychology and Public Opinion"
+      },
+      "35625": {
+         "credits": 3,
+         "crse": "1010",
+         "day1": "TR",
+         "prof": "Jenny Isaacs",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Introduction to Psychology"
+      },
+      "35626": {
+         "credits": 3,
+         "crse": "1130",
+         "day1": "M",
+         "prof": "Stephen I. Glicksman",
+         "time1finish": "09:30pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Developmental II"
+      },
+      "35627": {
+         "credits": 3,
+         "crse": "3440",
+         "day1": "T",
+         "prof": "Ari Shechter",
+         "time1finish": "09:30pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Drugs & Behavior"
+      },
+      "35628": {
+         "credits": 3,
+         "crse": "4930",
+         "day1": "MW",
+         "prof": "Esther Devorah Rollhaus",
+         "time1finish": "08:00pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Topics: Psychopharmacology"
+      },
+      "35842": {
+         "credits": 3,
+         "crse": "4933",
+         "day1": "T",
+         "prof": "Jenny Isaacs",
+         "time1finish": "09:30pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Research Seminar"
+      },
+      "35844": {
+         "credits": 3,
+         "crse": "2414H",
+         "day1": "TR",
+         "prof": "Jenny Isaacs",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Abnormal Psychology"
+      }
+   },
+   "Sociology": {
+      "33900": {
+         "credits": 3,
+         "crse": "1001",
+         "day1": "TR",
+         "prof": "Daniel Kimmel",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Introduction to Sociology"
+      },
+      "34003": {
+         "credits": 3,
+         "crse": "3003",
+         "day1": "MW",
+         "prof": "TBA",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Social Research Methods"
+      },
+      "34004": {
+         "credits": 3,
+         "crse": "2701",
+         "day1": "MW",
+         "prof": "Eliezer H. Schnall",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Social Psychology"
+      },
+      "35629": {
+         "credits": 3,
+         "crse": "2306H",
+         "day1": "M",
+         "prof": "Amy Stuart",
+         "time1finish": "09:15pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Sociology of Race and Racism"
+      },
+      "35630": {
+         "credits": 3,
+         "crse": "2105",
+         "day1": "F",
+         "prof": "Jonathan J. Zisook",
+         "time1finish": "12:00pm",
+         "time1start": "09:30am",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Religion and Society"
+      },
+      "35632": {
+         "credits": 3,
+         "crse": "2407",
+         "day1": "TR",
+         "prof": "Daniel Kimmel",
+         "time1finish": "05:45pm",
+         "time1start": "04:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Epidemiology"
+      }
+   },
+   "Spanish": {
+      "33901": {
+         "credits": 3,
+         "crse": "1101",
+         "day1": "MW",
+         "prof": "Graciela Bazet de Broitman",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Elementary Spanish I"
+      },
+      "33902": {
+         "credits": 3,
+         "crse": "1101",
+         "day1": "TR",
+         "prof": "Graciela Bazet de Broitman",
+         "time1finish": "04:15pm",
+         "time1start": "03:00pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Elementary Spanish I"
+      },
+      "33903": {
+         "credits": 3,
+         "crse": "1201",
+         "day1": "TR",
+         "prof": "Graciela Bazet de Broitman",
+         "time1finish": "02:45pm",
+         "time1start": "01:30pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Intermediate Spanish I"
+      }
+   },
+   "Statistics": {
+      "33909": {
+         "credits": 3,
+         "crse": "1021",
+         "day1": "F",
+         "prof": "Andreas Kakolyris",
+         "time1finish": "12:30pm",
+         "time1start": "10:00am",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Intro to Statistics"
+      }
+   },
+   "Theater Arts": {
+      "35698": {
+         "credits": 3,
+         "crse": "2910",
+         "day1": "T",
+         "prof": "Lin Snider",
+         "time1finish": "09:15pm",
+         "time1start": "06:45pm",
+         "time2finish": "",
+         "time2start": "",
+         "title": "Art of the Actor"
+      }
+   }
+}
