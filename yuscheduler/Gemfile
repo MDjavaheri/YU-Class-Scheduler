@@ -37,6 +37,12 @@ gem 'json'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
+  # CasperJS
+  gem 'casperjs', '~> 1.0'
+  # PhantomJS
+  gem 'poltergeist'
+  gem 'phantomjs', :require => 'phantomjs/casperjs'
+  
 end
 
 group :development do
