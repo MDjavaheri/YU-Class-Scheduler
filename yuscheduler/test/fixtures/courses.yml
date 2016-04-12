@@ -1,0 +1,39 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  select: MyString
+  crn: 1
+  subj: MyString
+  crse: MyString
+  sec: 1
+  cmp: 1
+  cred: 1
+  title: MyString
+  days: MyString
+  time: MyString
+  cap: 
+  act: 1
+  rem: 1
+  instructor: MyString
+  date: MyString
+  location: MyString
+  attribute: MyString
+
+two:
+  select: MyString
+  crn: 1
+  subj: MyString
+  crse: MyString
+  sec: 1
+  cmp: 1
+  cred: 1
+  title: MyString
+  days: MyString
+  time: MyString
+  cap: 
+  act: 1
+  rem: 1
+  instructor: MyString
+  date: MyString
+  location: MyString
+  attribute: MyString
