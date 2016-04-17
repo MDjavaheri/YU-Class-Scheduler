@@ -41,7 +41,7 @@ group :development, :test do
   gem 'casperjs', '~> 1.0'
   # PhantomJS
   gem 'poltergeist'
-  gem 'phantomjs', :require => 'phantomjs/casperjs'
+  gem 'phantomjs'
   
 end
 

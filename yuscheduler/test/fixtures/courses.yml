@@ -1,39 +1,37 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  select: MyString
-  crn: 1
-  subj: MyString
+  crn: 
+  credits: 1.000
   crse: MyString
-  sec: 1
-  cmp: 1
-  cred: 1
+  prof: MyString
   title: MyString
-  days: MyString
-  time: MyString
-  cap: 
+  day1: MyString
+  time1s: 2016-04-12 20:06:44
+  time1f: 2016-04-12 20:06:44
+  day2: MyString
+  time2s: 2016-04-12 20:06:44
+  time2f: 2016-04-12 20:06:44
+  select: false
+  section: 1
+  cap: 1
   act: 1
   rem: 1
-  instructor: MyString
-  date: MyString
-  location: MyString
-  attribute: MyString
 
 two:
-  select: MyString
-  crn: 1
-  subj: MyString
+  crn: 
+  credits: 2.000
   crse: MyString
-  sec: 1
-  cmp: 1
-  cred: 1
+  prof: MyString
   title: MyString
-  days: MyString
-  time: MyString
-  cap: 
+  day1: MyString
+  time1s: 2016-04-12 20:06:44
+  time1f: 2016-04-12 20:06:44
+  day2: MyString
+  time2s: 2016-04-12 20:06:44
+  time2f: 2016-04-12 20:06:44
+  select: false
+  section: 1
+  cap: 1
   act: 1
   rem: 1
-  instructor: MyString
-  date: MyString
-  location: MyString
-  attribute: MyString

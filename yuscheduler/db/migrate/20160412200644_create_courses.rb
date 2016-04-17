@@ -1,16 +1,7 @@
-class CreateDepts < ActiveRecord::Migration
-  
+class CreateCourses < ActiveRecord::Migration
   def change
-    create_table :depts do |t|
-      t.string :name
-      t.references :courses, index: true, foreign_key: true
-
-      t.timestamps null: false
-    end
-    
     create_table :courses, id: false do |t|
       t.primary_key :crn
-      t.references :dept
       t.decimal :credits
       t.string :crse
       t.string :prof
